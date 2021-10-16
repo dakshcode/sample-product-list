@@ -33,11 +33,12 @@ class Header extends Component {
                 <li class="nav-item dropdown">
                   <div class="dropdown">
                     <a href="#" class="nav-link">
-                      PAGES
+                      Car Dealers
                     </a>
                     <div class="dropdown-content">
-                      <a href="#">Generic</a>
-                      <a href="#">Element</a>
+                      <a href="/">True Motars</a>
+                      <a href="/">Aone Motars</a>
+                      <a href="/">Classic Motars</a>
                     </div>
                   </div>
                 </li>

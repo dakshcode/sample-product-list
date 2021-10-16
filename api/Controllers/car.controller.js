@@ -1,6 +1,6 @@
 
 const { response } = require("express");
-const User = require("../Models/user");
+//const User = require("../Models/user");
 
 
 // const userRegister = (req, res, next) => {
