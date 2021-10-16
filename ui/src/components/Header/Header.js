@@ -36,9 +36,9 @@ class Header extends Component {
                       Car Dealers
                     </a>
                     <div class="dropdown-content">
-                      <a href="/">True Motars</a>
-                      <a href="/">Aone Motars</a>
-                      <a href="/">Classic Motars</a>
+                      <a href="/car-dealer/true-motors">True Motars</a>
+                      <a href="/car-dealer/aone-motors">Aone Motars</a>
+                      <a href="/car-dealer/classic-motors">Classic Motars</a>
                     </div>
                   </div>
                 </li>

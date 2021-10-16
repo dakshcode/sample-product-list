@@ -1,6 +1,6 @@
 import React from 'react';
 
-const Car = ({data}) => {
+const Car = ({data,dealer_id=null}) => {
   return (
     <div className="card mr-2 d-inline-block shadow-lg">
         <div className="card-img-top">
@@ -17,7 +17,7 @@ const Car = ({data}) => {
             <br />
             <span>Ex Showroom Price</span>
           </p>
-          <a href="#">Dealers in my city</a>
+          { dealer_id && <a href="/">Search By Dealers</a>}
         </div>
       </div>
   );
