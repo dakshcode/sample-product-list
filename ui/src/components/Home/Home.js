@@ -17,7 +17,7 @@ const home = () => {
             <div className="col-md-12 col-sm-12">
               <h1>Download Our App for all Platform</h1>
               <p>
-                Lorem ipsum dolor, sit amet consectetur adipisicing elit. Eum exercitationem alias perspiciatis omnis quod possimus odit
+                Lorem ipsum dolor, sit consectetur adipisicing elit. Eum exercitationem alias perspiciatis omnis quod possimus odit
                 voluptatum! Sunt ea quasi praesentium, tenetur doloribus animi obcaecati, sint nemo quae laudantium iusto unde
                 eaque nostrum nobis voluptatum
               </p>
