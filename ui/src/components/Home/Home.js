@@ -18,7 +18,7 @@ const home = () => {
               <h1>Download Our App for all Platform</h1>
               <p>
                 Lorem ipsum dolor, sit elit. exercitationem  perspiciatis omnis quod possimus odit
-                voluptatum! Sunt praesentium, tenetur doloribus obcaecati, ghd laudantium iusto unde
+                voluptatum! Sunt praesentium, tenetur doloribus obcaecati, laudantium iusto unde
                 eaque  voluptatum
               </p>
             </div>
