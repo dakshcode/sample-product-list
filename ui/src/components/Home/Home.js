@@ -19,7 +19,7 @@ const home = () => {
               <p>
                 Lorem ipsum dolor, sit elit. exercitationem  perspiciatis omnis quod possimus odit
                 voluptatum! Sunt praesentium, tenetur doloribus obcaecati, nemo ghd laudantium iusto unde
-                eaque nostrum voluptatum
+                eaque  voluptatum
               </p>
             </div>
           </div>
