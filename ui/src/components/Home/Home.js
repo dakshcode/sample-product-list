@@ -18,7 +18,7 @@ const home = () => {
               <h1>Download Our App for all Platform</h1>
               <p>
                 Lorem ipsum dolor, sit elit. exercitationem  perspiciatis omnis quod possimus odit
-                voluptatum! praesentium, tenetur.
+                voluptatum! praesentium, ggg tenetur.
               </p>
             </div>
           </div>
